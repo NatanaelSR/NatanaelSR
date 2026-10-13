@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="https://github.com/NatanaelSR/NatanaelSR/blob/main/README.es.md"><b>🇪🇸 Leer en Español</b></a>
+  <a href="https://github.com/NatanaelSR/NatanaelSR/blob/main/README.es.md"><b> Leer en Español</b></a>
 </p>
 
 ## 👨‍💻 Hello! 
