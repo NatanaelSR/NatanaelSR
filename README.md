@@ -48,9 +48,9 @@ I'm Natanael, a bilingual professional in customer support, operations, and logi
 ---
 
 
-
+<div id="espanol"></div>
 <details> 
-  <summary id="espanol"><b>Versión en Español (Haz clic para desplegar)</b></summary>
+  <summary><b>Versión en Español (Haz clic para desplegar)</b></summary>
   <br>
 
 ## 👨‍💻 ¡Hola! 
@@ -97,3 +97,5 @@ Soy Natanael, profesional bilingüe en soporte al cliente, operaciones y logíst
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Natanael_Soto-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/natanaelsotorodriguez) &nbsp;
 
 </details>
+
+<br><br><br><br><br>
