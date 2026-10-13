@@ -4,6 +4,7 @@
 
 ## 👨‍💻 Hello! 
 I'm Natanael, a bilingual professional based in Valparaíso, Chile, with experience in customer support, operations, and logistics, as well as Python Full Stack development skills.
+
 I'm interested in web development and building practical solutions through programming. I am currently working on personal projects to strengthen my skills and continue learning new technologies.
 
 - Currently combining my operational experience with software development.
