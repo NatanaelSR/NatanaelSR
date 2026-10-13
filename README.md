@@ -60,6 +60,7 @@ I'm interested in web development and building practical solutions through progr
 
 ## 👨‍💻 ¡Hola! 
 Soy Natanael, un profesional bilingüe radicado en Valparaíso, Chile, con experiencia en atención al cliente, operaciones y logística, además de conocimientos en desarrollo Full Stack con Python.
+
 Me interesa el desarrollo web y la creación de soluciones prácticas mediante la programación. Actualmente trabajo en proyectos personales para fortalecer mis habilidades y continuar aprendiendo nuevas tecnologías.
 
 - Actualmente combino mi experiencia en operaciones con el desarrollo de software.
