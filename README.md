@@ -7,7 +7,7 @@ Soy Natanael, profesional bilingüe en soporte al cliente, operaciones y logíst
 | Repositorio / Proyecto | Enlace / Demo | Descripción |
 | --------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- |
 | [TuNido](https://github.com/NatanaelSR/proyecto_inmuebles)                   | [WebApp on Render](https://proyecto-inmuebles-22ft.onrender.com)       | Aplicación web de gestión inmobiliaria desarrollada con Django, PostgreSQL, Bootstrap y envio de correos mediante SMTP usando Brevo. |
-| [OnlyFlans](https://github.com/NatanaelSR/proyecto-onlyflans)                | [WebApp on Render](https://proyecto-onlyflans-z1d9.onrender.com)      | Aplicacion web de venta de flanes desarrollada con Django, PostgreSQL y Bootstrap. |          |
+| [OnlyFlans](https://github.com/NatanaelSR/proyecto-onlyflans)                | [WebApp on Render](https://proyecto-onlyflans-z1d9.onrender.com)      | Aplicacion web de venta de flanes con carrito funcional desarrollada con Django, PostgreSQL y Bootstrap. |          |
 | [Viajes Chile](https://github.com/NatanaelSR/Viajes_Chile) | [GitHub Pages](https://natanaelsr.github.io/Viajes_Chile/)   | Landing page para Viajes Chile           |
 
 ## 👔 Experiencia
