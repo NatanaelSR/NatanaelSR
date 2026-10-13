@@ -13,7 +13,7 @@ Soy Natanael, profesional bilingüe en soporte al cliente, operaciones y logíst
 ## 👔 Experiencia
 | Posición | Empresa | Área / Campo | Periodo |
 | ---------------------- | --------------------------- | ----------------------------- | ----------------- |
-| Recepcionista y auditor | **Hotel Ibis Valparaíso | Hospitalidad y Operaciones | 2025 — 2026 |
+| Recepcionista y auditor | Hotel Ibis Valparaíso | Hospitalidad y Operaciones | 2025 — 2026 |
 | Asistente de adquisiciones y bodega | THM Logistics | Logística e Inventario | 2025 — 2025 |
 | Asistente de comunicación de huéspedes | Andes STR | Gestión SaaS y Operaciones | 2024 — 2025 |
 | Soporte de operaciones nivel 2 | Zippedi | Soporte SaaS y Robótica | 2021 — 2023 |
