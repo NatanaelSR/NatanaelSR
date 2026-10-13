@@ -1,4 +1,4 @@
-## ¡Hola! 👨‍💻
+## 👨‍💻¡Hola! 
 Soy Natanael, profesional bilingüe en soporte al cliente, operaciones y logística, con habilidades en desarrollo Full Stack en Python y base en Valparaíso, Chile.
 - Actualmente combinando mi experiencia operativa con el desarrollo de software.
 - Enfocado en construir aplicaciones web robustas y soluciones digitales eficientes.
@@ -37,6 +37,6 @@ Soy Natanael, profesional bilingüe en soporte al cliente, operaciones y logíst
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Redes Sociales y Contacto
+## 📢Redes Sociales y Contacto
 [![GitHub](https://img.shields.io/badge/GitHub-NatanaelSR-black?style=for-the-badge&logo=github)](https://github.com/NatanaelSR) &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tu_Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/TU-LINKEDIN-AQUI) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tu_Perfil-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/natanaelsotorodriguez) &nbsp;
