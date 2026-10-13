@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="#-versión-en-español"><b>Leer en Español ↓</b></a>
+  <a href="#espanol"><b>Leer en Español</b></a>
 </p>
 
 ## 👨‍💻 Hello! 
@@ -47,7 +47,7 @@ I'm Natanael, a bilingual professional in customer support, operations, and logi
 
 ---
 
-<details>
+<details id="espanol">
   <summary><b>🇪🇸 Versión en Español (Haz clic para desplegar)</b></summary>
   <br>
 
