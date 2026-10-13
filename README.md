@@ -3,9 +3,13 @@
 </p>
 
 ## 👨‍💻 Hello! 
-I'm Natanael, a bilingual professional in customer support, operations, and logistics, with Python Full Stack development skills based in Valparaíso, Chile.
+I'm Natanael, a bilingual professional based in Valparaíso, Chile, with experience in customer support, operations, and logistics, as well as Python Full Stack development skills.
+I'm interested in web development and building practical solutions through programming. I am currently working on personal projects to strengthen my skills and continue learning new technologies.
+
 - Currently combining my operational experience with software development.
 - Focused on building robust web applications and efficient digital solutions.
+- Particularly interested in Python, Django, and databases.
+- Looking to grow professionally, gain experience, and contribute to projects where I can add value and continue learning.
 
 ## 📚 Projects
 | Repository / Project | Link / Demo | Description |
@@ -54,9 +58,13 @@ I'm Natanael, a bilingual professional in customer support, operations, and logi
   <br>
 
 ## 👨‍💻 ¡Hola! 
-Soy Natanael, profesional bilingüe en soporte al cliente, operaciones y logística, con habilidades en desarrollo Full Stack en Python y base en Valparaíso, Chile.
-- Actualmente combinando mi experiencia operativa con el desarrollo de software.
-- Enfocado en construir aplicaciones web robustas y soluciones digitales eficientes.
+Soy Natanael, un profesional bilingüe radicado en Valparaíso, Chile, con experiencia en atención al cliente, operaciones y logística, además de conocimientos en desarrollo Full Stack con Python.
+Me interesa el desarrollo web y la creación de soluciones prácticas mediante la programación. Actualmente trabajo en proyectos personales para fortalecer mis habilidades y continuar aprendiendo nuevas tecnologías.
+
+- Actualmente combino mi experiencia en operaciones con el desarrollo de software.
+- Enfocado en crear aplicaciones web robustas y soluciones digitales eficientes.
+- Especialmente interesado en Python, Django y bases de datos.
+- Busco crecer profesionalmente, adquirir experiencia y participar en proyectos donde pueda aportar valor y seguir aprendiendo.
 
 ## 📚 Proyectos
 | Repositorio / Proyecto | Enlace / Demo | Descripción |
