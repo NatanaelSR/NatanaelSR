@@ -39,4 +39,4 @@ Soy Natanael, profesional bilingüe en soporte al cliente, operaciones y logíst
 
 ## 📢Redes Sociales y Contacto
 [![GitHub](https://img.shields.io/badge/GitHub-NatanaelSR-black?style=for-the-badge&logo=github)](https://github.com/NatanaelSR) &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tu_Perfil-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/natanaelsotorodriguez) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mi_Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/natanaelsotorodriguez) &nbsp;
