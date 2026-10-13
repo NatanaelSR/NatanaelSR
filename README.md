@@ -47,8 +47,9 @@ I'm Natanael, a bilingual professional in customer support, operations, and logi
 
 ---
 
-<details id="espanol">
-  <summary><b>🇪🇸 Versión en Español (Haz clic para desplegar)</b></summary>
+<div id="espanol"> </div>
+<details> 
+  <summary><b>Versión en Español (Haz clic para desplegar)</b></summary>
   <br>
 
 ## 👨‍💻 ¡Hola! 
