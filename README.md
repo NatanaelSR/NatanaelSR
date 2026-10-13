@@ -98,4 +98,4 @@ Soy Natanael, profesional bilingüe en soporte al cliente, operaciones y logíst
 
 </details>
 
-<br><br><br><br><br>
+<br><br>
