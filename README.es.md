@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="https://github.com/NatanaelSR"><b>🇬🇧 Read in English</b></a>
+  <a href="https://github.com/NatanaelSR"><b>Read in English</b></a>
 </p>
 
 ## 👨‍💻 ¡Hola! 
